@@ -1,1 +1,1 @@
-# SonarQube-code-analysis-for-maven-github-actions
+# SonarQube-code-analysis-for-maven
